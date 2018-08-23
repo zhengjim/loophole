@@ -7,5 +7,7 @@
 
 ## 漏洞
 
- 1. S2-057
+ 1. [S2-057][1]
  2. ghostscript命令执行
+
+ [1]https://github.com/zhengjim/loophole/tree/master/S2-057
