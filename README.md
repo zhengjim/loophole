@@ -13,8 +13,13 @@
     
  2. [ghostscript命令执行漏洞][2]
  
+ 
+ 
+ 3.[weblogic反序列化漏洞-CVE-2018-2628][2]
+ 
 
 
 
   [1]: https://github.com/zhengjim/loophole/tree/master/S2-057
   [2]: https://github.com/zhengjim/loophole/tree/master/ghostscript
+  [3]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-2628
