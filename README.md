@@ -11,7 +11,7 @@
     
 
     
- 2. [ghostscript命令执行][2]
+ 2. [ghostscript命令执行漏洞][2]
  
 
 
