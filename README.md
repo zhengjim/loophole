@@ -17,9 +17,14 @@
 
  3. [weblogic反序列化漏洞-CVE-2018-2628][3]
  
+ 
+ 
+ 4. [Elasticsearch-Kibana本地包含漏洞-CVE-2018-17246][3]
+ 
 
 
 
   [1]: https://github.com/zhengjim/loophole/tree/master/S2-057
   [2]: https://github.com/zhengjim/loophole/tree/master/ghostscript
   [3]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-2628
+  [4]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-17246
