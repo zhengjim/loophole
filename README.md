@@ -21,6 +21,10 @@
  
  4. [Elasticsearch-Kibana本地包含漏洞-CVE-2018-17246][4]
  
+ 
+ 
+ 5. [ThinkPHP5.x版本命令执行漏洞][5]
+ 
 
 
 
@@ -28,3 +32,4 @@
   [2]: https://github.com/zhengjim/loophole/tree/master/ghostscript
   [3]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-2628
   [4]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-17246
+  [5]: https://github.com/zhengjim/loophole/tree/master/thinkphp5
