@@ -14,6 +14,8 @@
 
  5. [ThinkPHP5.x版本命令执行漏洞][5]
  
+ 6.[WordPress_REST_API内容注入漏洞][6]
+ 
 
 ## 注意
 
@@ -27,3 +29,4 @@
   [3]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-2628
   [4]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-17246
   [5]: https://github.com/zhengjim/loophole/tree/master/thinkphp5
+  [6]: https://github.com/zhengjim/loophole/tree/master/WordPress_REST_API%E5%86%85%E5%AE%B9%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E
