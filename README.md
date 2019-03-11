@@ -14,7 +14,7 @@
 
  5. [ThinkPHP5.x版本命令执行漏洞][5]
  
- 6.[WordPress_REST_API内容注入漏洞][6]
+ 6. [WordPress_REST_API内容注入漏洞][6]
  
 
 ## 注意
