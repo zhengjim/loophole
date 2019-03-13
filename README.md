@@ -8,13 +8,15 @@
      
  2. [ghostscript命令执行漏洞][2]
 
- 3. [weblogic反序列化漏洞-CVE-2018-2628][3]
+ 3. [weblogic反序列化漏洞(CVE-2018-2628)][3]
  
- 4. [Elasticsearch-Kibana本地包含漏洞-CVE-2018-17246][4]
+ 4. [Elasticsearch-Kibana本地包含漏洞(CVE-2018-17246)][4]
 
  5. [ThinkPHP5.x版本命令执行漏洞][5]
  
  6. [WordPress_REST_API内容注入漏洞][6]
+ 
+ 7. [Git漏洞允许任意代码执行(CVE-2018-17456)][7]
  
 
 ## 注意
@@ -30,3 +32,4 @@
   [4]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-17246
   [5]: https://github.com/zhengjim/loophole/tree/master/thinkphp5
   [6]: https://github.com/zhengjim/loophole/tree/master/WordPress_REST_API%E5%86%85%E5%AE%B9%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E
+  [7]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-17456
