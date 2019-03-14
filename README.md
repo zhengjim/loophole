@@ -4,20 +4,21 @@
 
 ## 漏洞
 
- 1. [S2-057命令执行漏洞][1]
+ 1. [S2-057命令执行漏洞](https://github.com/zhengjim/loophole/tree/master/S2-057)
      
- 2. [ghostscript命令执行漏洞][2]
+ 2. [ghostscript命令执行漏洞](https://github.com/zhengjim/loophole/tree/master/ghostscript)
 
- 3. [weblogic反序列化漏洞(CVE-2018-2628)][3]
+ 3. [weblogic反序列化漏洞(CVE-2018-2628)](https://github.com/zhengjim/loophole/tree/master/CVE-2018-2628)
  
- 4. [Elasticsearch-Kibana本地包含漏洞(CVE-2018-17246)][4]
+ 4. [Elasticsearch-Kibana本地包含漏洞(CVE-2018-17246)](https://github.com/zhengjim/loophole/tree/master/CVE-2018-17246)
 
- 5. [ThinkPHP5.x版本命令执行漏洞][5]
+ 5. [ThinkPHP5.x版本命令执行漏洞](https://github.com/zhengjim/loophole/tree/master/thinkphp5)
  
- 6. [WordPress_REST_API内容注入漏洞][6]
+ 6. [WordPress_REST_API内容注入漏洞](https://github.com/zhengjim/loophole/tree/master/WordPress_REST_API%E5%86%85%E5%AE%B9%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E)
  
- 7. [Git漏洞允许任意代码执行(CVE-2018-17456)][7]
+ 7. [Git漏洞允许任意代码执行(CVE-2018-17456)](https://github.com/zhengjim/loophole/tree/master/CVE-2018-17456)
  
+ 8.[Apache Tika中的命令注入(CVE-2018-1335)](https://github.com/zhengjim/loophole/tree/master/CVE-2018-1335)
 
 ## 注意
 
@@ -25,11 +26,3 @@
 - POC及研究过程参考网上大佬的，如有侵权联系删除。
 - 感谢。
 
-
-  [1]: https://github.com/zhengjim/loophole/tree/master/S2-057
-  [2]: https://github.com/zhengjim/loophole/tree/master/ghostscript
-  [3]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-2628
-  [4]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-17246
-  [5]: https://github.com/zhengjim/loophole/tree/master/thinkphp5
-  [6]: https://github.com/zhengjim/loophole/tree/master/WordPress_REST_API%E5%86%85%E5%AE%B9%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E
-  [7]: https://github.com/zhengjim/loophole/tree/master/CVE-2018-17456
