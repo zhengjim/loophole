@@ -18,7 +18,7 @@
  
  7. [Git漏洞允许任意代码执行(CVE-2018-17456)](https://github.com/zhengjim/loophole/tree/master/CVE-2018-17456)
  
- 8.[Apache Tika中的命令注入(CVE-2018-1335)](https://github.com/zhengjim/loophole/tree/master/CVE-2018-1335)
+ 8. [Apache Tika中的命令注入(CVE-2018-1335)](https://github.com/zhengjim/loophole/tree/master/CVE-2018-1335)
 
 ## 注意
 
