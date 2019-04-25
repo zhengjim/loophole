@@ -19,7 +19,7 @@ Oracle WebLogic Server12.2.1.2.0
 ```
 docker-compose up -d
 ```
-等待一段时间，访问http://your-ip:7001/即可看到一个404页面，说明weblogic已成功启动。
+等待一段时间，访问`http://your-ip:7001/`即可看到一个404页面，说明weblogic已成功启动。
 
 我们可以先进入容器内部
 ```
@@ -65,5 +65,10 @@ Content-Length: 814
 复现成功
 
 有人会认为没回显，可以使用dnslog，也可以写到文件里。
+
+
+简单的写下exp
+
+[webLogic-wls9-exp.py](https://github.com/zhengjim/loophole/blob/master/CNVD-C-2019-48814/webLogic-wls9-exp.py)
 
 ![](./img/3.png)
