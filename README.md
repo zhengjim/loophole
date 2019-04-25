@@ -21,6 +21,8 @@
  8. [Apache Tika中的命令注入(CVE-2018-1335)](https://github.com/zhengjim/loophole/tree/master/CVE-2018-1335)
  
  9. [gitlab-ssrf-redis-rce](https://github.com/zhengjim/loophole/tree/master/gitlab-ssrf-redis-rce)
+ 
+ 10. [WebLogic wls9-async反序列化远程命令执行漏洞（CNVD-C-2019-48814）](https://github.com/zhengjim/loophole/tree/master/CNVD-C-2019-48814)
 
 ## 注意
 
