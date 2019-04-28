@@ -22,9 +22,11 @@
  
  9. [gitlab-ssrf-redis-rce](https://github.com/zhengjim/loophole/tree/master/gitlab-ssrf-redis-rce)
  
- 10. [WebLogic任意文件上传漏洞(CVE-2019-2618)](https://github.com/zhengjim/loophole/tree/master/CVE-2019-2618)
+ 10. [Confluence 未授权导致RCE漏洞(CVE-2019-3396)](https://github.com/zhengjim/loophole/tree/master/CVE-2019-3396)
  
- 11. [WebLogic wls9-async反序列化远程命令执行漏洞（CNVD-C-2019-48814）](https://github.com/zhengjim/loophole/tree/master/CNVD-C-2019-48814)
+ 11. [WebLogic任意文件上传漏洞(CVE-2019-2618)](https://github.com/zhengjim/loophole/tree/master/CVE-2019-2618)
+ 
+ 12. [WebLogic wls9-async反序列化远程命令执行漏洞（CNVD-C-2019-48814）](https://github.com/zhengjim/loophole/tree/master/CNVD-C-2019-48814)
 
 ## 注意
 
