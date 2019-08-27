@@ -31,6 +31,8 @@
  13. [WebLogic wls9-async反序列化远程命令执行漏洞（CNVD-C-2019-48814）](https://github.com/zhengjim/loophole/tree/master/CNVD-C-2019-48814)
  
  14. [Nexus Repository Manager 3 远程命令执行漏洞（CVE-2019-7238）](https://github.com/zhengjim/loophole/tree/master/CVE-2019-7238)
+ 
+ 15. [fastjson =< 1.2.47 反序列化漏洞](https://github.com/zhengjim/loophole/tree/master/fastjson)
 
 ## 注意
 
