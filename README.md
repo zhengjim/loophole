@@ -33,7 +33,9 @@
  14. [Nexus Repository Manager 3 远程命令执行漏洞（CVE-2019-7238）](https://github.com/zhengjim/loophole/tree/master/CVE-2019-7238)
  
  15. [fastjson =< 1.2.47 反序列化漏洞](https://github.com/zhengjim/loophole/tree/master/fastjson)
-
+ 
+ 16. [PHP-FPM 远程代码执行漏洞（CVE-2019-11043）](https://github.com/zhengjim/loophole/tree/master/CVE-2019-11043)
+ 
 ## 注意
 
 - 仅个人学习研究使用，严禁用于违法行为!
