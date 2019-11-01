@@ -36,6 +36,8 @@
  
  16. [PHP-FPM 远程代码执行漏洞（CVE-2019-11043）](https://github.com/zhengjim/loophole/tree/master/CVE-2019-11043)
  
+ 17. [Apache Solr基于Velocity模板的远程命令执行漏洞](https://github.com/zhengjim/loophole/tree/master/solr_velocity_rce)
+ 
 ## 注意
 
 - 仅个人学习研究使用，严禁用于违法行为!
