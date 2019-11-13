@@ -2,7 +2,7 @@
 
 搭漏洞环境是一个繁琐的事情，这里记录下自己学习搭各种环境的记录。部分利用[Vulhub](https://github.com/vulhub/vulhub)一个面向大众的开源漏洞靶场，来搭建漏洞环境，比较方便。（主要懒！）
 
-## 漏洞
+## 漏洞 
 
  1. [S2-057命令执行漏洞](https://github.com/zhengjim/loophole/tree/master/S2-057)
      
