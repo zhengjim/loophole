@@ -38,6 +38,8 @@
  
  17. [Apache Solr基于Velocity模板的远程命令执行漏洞](https://github.com/zhengjim/loophole/tree/master/solr_velocity_rce)
  
+ 18. [Apache Dubbo Provider默认反序列漏洞（CVE-2020-1948）](https://github.com/zhengjim/loophole/tree/master/CVE-2020-1948)
+ 
 ## 注意
 
 - 仅个人学习研究使用，严禁用于违法行为!
